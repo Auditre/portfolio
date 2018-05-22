@@ -1,0 +1,19 @@
+
+
+nav{font-family: "Comic Sans MS", cursive, sans-serif}
+
+
+
+
+a { color:red } /* Globally */
+
+/* Each state */
+
+a:visited { text-decoration: none; color:green; }
+a:hover { text-decoration: none; color:blue; }
+a:focus { text-decoration: none; color:yellow; }
+a:hover, a:active { text-decoration: none; color:black }
+
+body {
+    background-color: powderblue;
+}
